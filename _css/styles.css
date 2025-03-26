@@ -1,0 +1,143 @@
+#about {
+    padding-top: 50px;
+}
+
+a {
+    margin-left: 10px;
+}
+
+bgc2,
+.vLine,
+.hLine {
+    background-color: #0F52BA;
+}
+
+.bio {
+    color: white;
+    border-radius: 25px;
+    background-color: #0F52BA;
+    padding: 5px;
+    width: 100%;
+}
+
+.bio-card {
+    padding: 5px;
+    margin: 10px;
+}
+
+.card-title {
+    color: #41aea9;
+    font-weight: bold;
+}
+
+.carousel-item {
+    height: 70vh;
+    
+    background: no-repeat center center scroll;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.end {
+    margin-top: 150px;
+}
+
+footer {
+    margin-top: 5rem;
+    text-align: center;
+    width: 100%;
+    color: #41aea9;
+}
+
+h2 {
+    color: grey;
+}
+
+h6 {
+    color: #000000;
+}
+
+.hi {
+    color: #000000;
+}
+
+.img-sum {
+    height: 200px;
+}
+
+.keep, .heart {
+    color: #41aea9;
+}
+
+.lead,
+.display-4 {
+    color: rgb(255, 255, 255);
+    text-shadow: 1.5px 1.5px rgba(0, 0, 0, 0.75);
+}
+
+.lnr {
+    display: inline-block;
+    fill: currentColor;
+    width: 1em;
+    height: 1em;
+    vertical-align: -0.05em;
+    stroke-width: 1;
+}
+
+.myprofile {
+    border-radius: 100%;
+    height: 50px;
+    margin-right: 20px;
+}
+
+.one {
+    margin-bottom: -100px;
+}
+
+.overall {
+    align-content: center;
+}
+
+p {
+    color: #0F52BA;
+}
+
+.profile {
+    border-radius: 100%;
+    margin-right: 5px;
+    border: 10px solid #41aea9;
+    margin-top: 20px;
+}
+
+.quote-icon {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+.services-icon {
+    margin-bottom: 20px;
+    font-size: 60px;
+}
+
+.six {
+    height: 200px;
+    ;
+}
+
+.shadow {
+    width: 100%;
+}
+
+.sum {
+    max-height: 150px;
+    margin-bottom: 10rem;
+}
+
+.title-bio {
+    background-color: #0F52BA;
+    color: #ffffff;
+    border-radius: 25px;
+    margin-top: 100px;
+}
